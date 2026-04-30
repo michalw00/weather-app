@@ -89,3 +89,8 @@ button:hover {
     0 4px 15px rgba(0,0,0,0.1),
     inset 0 0 5px rgba(255,255,255,0.2);
 }
+
+.app {
+  width: 90%;
+  max-width: 400px;
+}
